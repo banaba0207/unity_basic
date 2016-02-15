@@ -54,11 +54,11 @@ Assets/Resources
 *.png
 
 Assets/Atlas/
-Assets/Common/
+Assets/CommonPrefab/
 Assets/Item/
 Assets/Menu/
 Assets/party/
-Assets/particle
+Assets/particle/
 Assets/Sound/
+Assets/UserData/
 screenshot
-
