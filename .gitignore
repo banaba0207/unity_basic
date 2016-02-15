@@ -51,6 +51,8 @@ Assets/Resources
 /*.pidb
 /*.booproj
 
+*.png
+
 Assets/Atlas/
 Assets/Common/
 Assets/Item/
